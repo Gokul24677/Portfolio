@@ -7,7 +7,7 @@ function scrollToSection(sectionId) {
     });
 }
 
-// Contact form handling (just a simple placeholder, you can add actual form handling logic here)
+// Contact form handling 
 document.getElementById('contactForm').addEventListener('submit', function (event) {
     event.preventDefault();
     alert('Message sent!');
